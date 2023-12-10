@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "title": "cuadernillo",
+    "description": "cuadernillo tapa dura , 100 hojas cuadriculadas",
+    "price": 4100,
+    "image": "sin imagen",
+    "code": "abc123",
+    "stock": 10
+  },
+  {
+    "id": 2,
+    "description": "color negra , trazo fino",
+    "price": 450,
+    "image": "sin imagen",
+    "code": "def456",
+    "stock": 96
+  }
+]
